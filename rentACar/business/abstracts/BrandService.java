@@ -16,6 +16,5 @@ public interface BrandService {
     void add(CreateBrandRequest createBrandRequest);
     void update(UpdateBrandRequest updateBrandRequest);
     void delete(int id);
-    //markaları listeliyoz
     // response metodu ---> getAll
 }
